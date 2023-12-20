@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+
+# Django migrations and SQLite database
+*.sqlite3
+/migrations/
+
+# Static files
+/static/
+
+# Other Django-specific files or directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
